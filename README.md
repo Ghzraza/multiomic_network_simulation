@@ -17,3 +17,25 @@ The purpose of this repo is to showcase computational and analytical skills tran
 
 ## Repository Structure
 
+
+## Example Workflow
+
+1. **Data Simulation:** Generate synthetic multi-omic single-cell datasets for human and mouse brain cells.
+2. **Preprocessing:** Normalize and clean each omic layer.
+3. **Network Analysis:** Construct gene/protein co-expression networks; identify modules.
+4. **Multi-Omic Integration:** Combine epigenetic, proteomic, and transcriptomic data to highlight shared signatures.
+5. **AI Modeling:** Use machine learning to predict phenotype associations (stress, depression) from integrated data.
+6. **Visualization:** Plot networks, module-trait associations, and cross-species comparisons.
+
+## Technologies
+
+- Python: `numpy`, `pandas`, `scikit-learn`, `networkx`, `scanpy`
+- R: `WGCNA`, `MEGENA`, `ggplot2`
+- Jupyter Notebooks for interactive analysis
+- Matplotlib/Seaborn for visualizations
+
+---
+
+This repository is designed as a **demonstration of computational literacy in systems neuroscience and multi-omics**, transferable to real-world applications such as the Labonté Lab’s depression and stress studies.
+
+
