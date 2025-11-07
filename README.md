@@ -10,7 +10,7 @@ The purpose of this repo is to showcase computational and analytical skills tran
 
 - **Simulated multi-omic datasets:** Epigenetic (DNA methylation), proteomic, and transcriptomic single-cell profiles.
 - **Data preprocessing pipelines:** Normalization, quality control, and feature selection.
-- **Network analysis:** WGCNA (Weighted Gene Co-expression Network Analysis), MEGENA (Multiscale Embedded Gene Co-Expression Network Analysis).
+- **Network analysis:** WGCNA (Weighted Gene Co-expression Network Analysis)
 - **Interspecies simulation:** Human and mouse dataset alignment for cross-species insights.
 - **AI-based modeling:** Predictive modeling of molecular signatures related to stress and depression.
 - **Visualization:** Network graphs, module-trait associations, and integrated multi-omic feature heatmaps.
